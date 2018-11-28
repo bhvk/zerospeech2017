@@ -115,7 +115,7 @@ Once done, you'll be ready to test your system on two surprise languages. To get
         <time> <val1>    ... <valN>
         <time> <val1>    ... <valN>
 
-  Exemple:
+  Example:
 
         0.0125 12.3 428.8 -92.3 0.021 43.23
         0.0225 19.0 392.9 -43.1 10.29 40.02
